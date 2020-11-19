@@ -1,0 +1,3 @@
+En cuanto a como realizaria la union entre los dos repos: modifiacaria la url
+del git remote add y enviaria todo el trabajo hecho en el repo local al remoto forkeado, 
+y haria un pull request
